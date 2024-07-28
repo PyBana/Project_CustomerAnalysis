@@ -43,7 +43,7 @@ This project demonstrates a comprehensive approach to cleaning, normalizing, and
 
 ![CustomerAnalysisDemograph](https://github.com/user-attachments/assets/96eb71ea-cdad-44b3-84a2-4b1b7e9d5a89)
 
-![CustomerAnalysisPurchase](https://github.com/user-attachments/assets/8127fd67-855b-49bc-a19f-27bab8596744)
+![CustomerAnalysisPurchaseData](https://github.com/user-attachments/assets/c3ab84f7-3d13-427c-932d-e28538ee22ef)
 
 
 
