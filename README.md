@@ -1,4 +1,4 @@
-# Customer Data Analysis and Visualization
+# Customer Personality Analysis
 
 ## Overview
 
