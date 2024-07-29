@@ -22,7 +22,7 @@ This project involves cleaning and analyzing customer data to understand their b
 <b>3. Data Analysis and Visualization with Power BI:</b>
   - Imported the normalized data from SQL into Power BI.
   - Created calculated columns and measures to derive insights, such as customer segments based on purchase activity and income groups.
-  - Designed interactive dashboards with key performance indicators (KPIs), charts, and graphs.
+  - Designed interactive dashboards with key insights, charts, and graphs.
   - Visualized customer demographics, purchase patterns, campaign responses, and website interactions.
 
 ## Key Features
